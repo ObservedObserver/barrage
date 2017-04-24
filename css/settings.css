@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  background-image: url("../images/back1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.danmu-box{
+  position: absolute;
+  overflow: hidden;
+}
+.words{
+  position: absolute;
+  font-size: 28px;
+  color:white;
+  font-weight: 600;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
